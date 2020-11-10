@@ -1,2 +1,2 @@
-# bash-scripting-tutorial
-bash scripting tutorial
+# Bash Scripting Tutorial
+# Introduction
